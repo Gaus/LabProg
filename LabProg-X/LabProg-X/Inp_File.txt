@@ -1,0 +1,5 @@
+Computers capable of performing billions of operations
+a second are required. Supercomputers are different from ordinary computers.
+The ordinary computer does the comoutations operation by operation.
+while the supercomputer operates like a brain:
+all operations are being done simultaneously.

@@ -1,0 +1,5 @@
+To make the program easier to write and to overcome the problem of
+intercommunication between different types of machines, higher-level
+languages were developed such as BASIC, COBOL, FORTRAN, Pascal, Ada, C
+and others. A higher-level language is a problem oriented programming
+language, whereas a low-level language is machine oriented.
